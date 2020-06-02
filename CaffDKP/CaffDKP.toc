@@ -1,5 +1,5 @@
 ## Interface: 11304
-## Version: 1.3.2
+## Version: 1.3.3
 ## Title: Caffeinated Guild Tooltip DKP Prices
 ## Notes: Displays the DKP value of Raid drops in the item tooltip
 ## Author: Mattyg
