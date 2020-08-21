@@ -419,7 +419,7 @@ function addline_itemDKP(tt)
 			local dkp = item["dkp"];
 			local forpvp = item["forpvp"];
 			if forpvp then
-				tt:AddLine("|cFF00FF00 DKP |cFFFFFF00 PVP: |cFFFFFFFF"..dkp)
+				tt:AddLine("|cFF00FF00 DKP |cFFF58CBA PVP: |cFFFFFFFF"..dkp)
 			else
 				tt:AddLine("|cFF00FF00 DKP |cFFFFFF00 Main: |cFFFFFFFF"..dkp)
 			end
