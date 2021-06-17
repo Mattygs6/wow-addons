@@ -552,7 +552,7 @@ local raid_drop_data = {
 	[29767] = { ["dkp"] = 25, ["forpvp"] = false },
 	[29765] = { ["dkp"] = 25, ["forpvp"] = false },
 	[28796] = { ["dkp"] = 10, ["forpvp"] = false },
-	[28801] = { ["dkp"] = 10, ["forpvp"] = false },
+	[28801] = { ["dkp"] = 5, ["forpvp"] = false },
 	[29763] = { ["dkp"] = 25, ["forpvp"] = false },
 	[29764] = { ["dkp"] = 25, ["forpvp"] = false },
 	[29762] = { ["dkp"] = 25, ["forpvp"] = false },
