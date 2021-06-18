@@ -575,8 +575,9 @@ local raid_drop_data = {
 	[28780] = { ["dkp"] = 10, ["forpvp"] = false },
 	[28778] = { ["dkp"] = 15, ["forpvp"] = false },
 	[28775] = { ["dkp"] = 10, ["forpvp"] = false },
-	[32385] = { ["dkp"] = 20, ["forpvp"] = false }
-	}
+	[32385] = { ["dkp"] = 20, ["forpvp"] = false },
+	[28803] = { ["dkp"] = 10, ["forpvp"] = false }
+}
 	
 local function GetTooltipItemID(tt)
 	local itemName,itemLink = tt:GetItem()
